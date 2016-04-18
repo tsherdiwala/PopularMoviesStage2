@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Popular Movies Stage</string>
+    <string name="sort_by_popularity">Sort By Popularity</string>
+    <string name="sort_by_rating">Sort By Rating</string>
+
+    <string name="release_date"><b>Released On : </b>%s</string>
+    <string name="rating"><b>Rating :</b>%s</string>
+    <string name="trailer_list">Watch Trailer %d</string>
+    <string name="reviews">Reviews</string>
+    <string name="trailers">Trailers</string>
+    <string name="add_to_favourites">Add To Favourites</string>
+    <string name="show_favourites">Show Favourites</string>
+
+</resources>
